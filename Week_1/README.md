@@ -23,7 +23,7 @@ This project involves exploring a weather dataset using Python and SQL. The goal
 The dataset used for this project is downloaded from Kaggle.
 
 ## Python Analysis
-For part 1 of the project I used Google Colab.
+For part 1 of the project I used Google Colab. Explore the [notebook](https://github.com/S-Osman4/Lux_Academy-Data_Analysis/blob/main/Week_1/Week_1_Data_Analysis_Challenge_Weather_Data.ipynb).
 
 ### Installation and Setup
 
@@ -101,7 +101,7 @@ data.info()
    ```  
 
 ## SQL Analysis
-For part 2, I explored both MySQL Workbench and VSCode.
+For part 2, I explored both MySQL Workbench and VSCode. Explore the [sql file](https://github.com/S-Osman4/Lux_Academy-Data_Analysis/blob/main/Week_1/Week_1_Data_Analysis_Challenge_Weather_Data.sql).
 
 ### Installation and set up
 1. Install MySQL Workbench:
