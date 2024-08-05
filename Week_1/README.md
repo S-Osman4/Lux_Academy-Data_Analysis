@@ -1,4 +1,4 @@
-# Lux Academy Data Science Bootcamp - Week 1 Project
+# Lux Tech Academy Data Science Bootcamp - Week 1 Project
 
 ## Project Overview
 
@@ -143,6 +143,6 @@ Install the SQLTools extension in VSCode from the Extensions Marketplace.
 ![Full Code](https://github.com/S-Osman4/Lux_Academy-Data_Analysis/blob/main/Week_1/Images/Full_SQL_code.png)
 
 ## Acknowledgements
-* Kaggle for providing the dataset.
-* Lux Academy for the data science bootcamp.
+* [Kaggle](https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners/code) for providing the dataset.
+* [Lux Tech Academy](https://x.com/LuxDevHQ) for the data science bootcamp.
 
