@@ -1,1 +1,1 @@
-# Lux Academy Bootcamp
+# Lux Tech Academy Bootcamp
