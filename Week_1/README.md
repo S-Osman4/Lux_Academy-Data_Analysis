@@ -16,7 +16,7 @@ This project involves exploring a weather dataset using Python and SQL. The goal
 - SQL
   - MySQL
   - MySQL Workbench
-- Colab
+- Google Colab
 - VSCode
 
 ## Dataset
