@@ -142,6 +142,10 @@ Install the SQLTools extension in VSCode from the Extensions Marketplace.
 
 ![Full Code](https://github.com/S-Osman4/Lux_Academy-Data_Analysis/blob/main/Week_1/Images/Full_SQL_code.png)
 
+### PowerBi Demonstration
+
+![PowerBi Demo]()
+
 ## Acknowledgements
 * [Kaggle](https://www.kaggle.com/datasets/ayushmi77al/weather-data-set-for-beginners/code) for providing the dataset.
 * [Lux Tech Academy](https://x.com/LuxDevHQ) for the data science bootcamp.
